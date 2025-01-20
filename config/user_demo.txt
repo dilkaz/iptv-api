@@ -1,0 +1,14 @@
+影视频道,#genre#
+CCTV-1
+CCTV-2
+CCTV-3
+CCTV-4
+CCTV-5
+CCTV-6
+
+
+自定义频道分类，#genre#
+自定义频道分类1
+自定义频道分类1,https://xxx.m3u8
+自定义频道分类1,https://xxx.m3u8$普通接口参与测速排序
+自定义频道分类1,https://xxx.m3u8$!白名单
